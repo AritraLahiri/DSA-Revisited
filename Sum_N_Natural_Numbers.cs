@@ -15,6 +15,7 @@
             //return res;
 
             // Most Efficient O(1) 
+            // This approach is the most efficient one.
             return n * (n + 1) / 2;
 
         }
